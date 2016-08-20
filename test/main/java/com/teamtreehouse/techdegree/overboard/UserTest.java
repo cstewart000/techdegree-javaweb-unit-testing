@@ -1,11 +1,12 @@
-package com.teamtreehouse.techdegree.overboard.model;
+package main.java.com.teamtreehouse.techdegree.overboard;
 
-import com.teamtreehouse.techdegree.overboard.exc.AnswerAcceptanceException;
-import com.teamtreehouse.techdegree.overboard.exc.VotingException;
-import org.junit.Before;
-import org.junit.Test;
+        import com.teamtreehouse.techdegree.overboard.exc.AnswerAcceptanceException;
+        import com.teamtreehouse.techdegree.overboard.exc.VotingException;
+        import com.teamtreehouse.techdegree.overboard.model.*;
+        import org.junit.Before;
+        import org.junit.Test;
 
-import static org.junit.Assert.*;
+        import static org.junit.Assert.*;
 
 /**
  * Created by helloworld on 18/06/2016.
